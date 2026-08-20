@@ -1,0 +1,501 @@
+"product_id","product_name","category","total_quantity_sold","total_revenue","profit_margin"
+184,"Product 0184","Sports & Outdoors",442,183328.34,38.84
+87,"Product 0087","Office Supplies",453,36674.88,44.55
+477,"Product 0477","Electronics",455,274647.10,29.55
+273,"Product 0273","Apparel",477,91579.23,40.92
+394,"Product 0394","Electronics",492,147609.84,33.86
+51,"Product 0051","Electronics",492,315121.08,49.82
+272,"Product 0272","Office Supplies",392,43170.96,41.51
+70,"Product 0070","Sports & Outdoors",384,111456.00,51.23
+190,"Product 0190","Electronics",453,57204.84,43.21
+350,"Product 0350","Apparel",486,36940.86,42.51
+278,"Product 0278","Home & Kitchen",498,207601.26,32.09
+406,"Product 0406","Electronics",485,249915.65,44.51
+424,"Product 0424","Electronics",489,38728.80,47.61
+176,"Product 0176","Electronics",480,190324.80,36.71
+309,"Product 0309","Apparel",443,54289.65,50.93
+292,"Product 0292","Office Supplies",436,66559.76,44.78
+271,"Product 0271","Office Supplies",444,33863.88,49.48
+22,"Product 0022","Home & Kitchen",432,17940.96,40.28
+156,"Product 0156","Sports & Outdoors",412,7811.52,35.34
+417,"Product 0417","Apparel",405,8833.05,36.36
+475,"Product 0475","Sports & Outdoors",359,16503.23,34.13
+282,"Product 0282","Home & Kitchen",465,21669.00,32.17
+390,"Product 0390","Home & Kitchen",438,67241.76,36.35
+173,"Product 0173","Electronics",346,32669.32,39.91
+269,"Product 0269","Home & Kitchen",393,130947.60,47.47
+261,"Product 0261","Home & Kitchen",527,217018.60,35.57
+42,"Product 0042","Home & Kitchen",400,7676.00,53.62
+189,"Product 0189","Home & Kitchen",451,26243.69,49.72
+161,"Product 0161","Office Supplies",416,41425.28,32.33
+117,"Product 0117","Sports & Outdoors",416,146615.04,34.12
+125,"Product 0125","Electronics",414,119364.48,43.59
+40,"Product 0040","Office Supplies",451,71542.13,51.31
+113,"Product 0113","Home & Kitchen",390,153714.60,52.41
+257,"Product 0257","Apparel",462,101995.74,41.37
+43,"Product 0043","Office Supplies",454,41640.88,54.66
+120,"Product 0120","Home & Kitchen",505,50267.70,35.20
+440,"Product 0440","Electronics",382,277840.06,31.61
+187,"Product 0187","Home & Kitchen",376,155987.36,40.60
+349,"Product 0349","Electronics",440,287210.00,47.13
+57,"Product 0057","Apparel",413,60141.06,41.73
+19,"Product 0019","Electronics",480,296155.20,47.81
+160,"Product 0160","Office Supplies",327,52611.03,38.50
+242,"Product 0242","Sports & Outdoors",454,239144.50,49.03
+357,"Product 0357","Electronics",435,114879.15,47.56
+331,"Product 0331","Apparel",468,71884.80,45.60
+266,"Product 0266","Office Supplies",509,57878.39,33.51
+315,"Product 0315","Home & Kitchen",449,106192.99,47.33
+366,"Product 0366","Home & Kitchen",438,171170.40,34.51
+307,"Product 0307","Apparel",445,97681.95,43.46
+91,"Product 0091","Office Supplies",427,34753.53,53.48
+54,"Product 0054","Electronics",398,261318.84,52.75
+305,"Product 0305","Home & Kitchen",402,112254.48,34.85
+29,"Product 0029","Office Supplies",441,53647.65,33.18
+4,"Product 0004","Office Supplies",521,33541.98,54.44
+181,"Product 0181","Office Supplies",436,60904.84,54.13
+96,"Product 0096","Electronics",507,285248.34,46.42
+466,"Product 0466","Home & Kitchen",401,77946.38,54.67
+201,"Product 0201","Apparel",439,32780.13,30.48
+10,"Product 0010","Apparel",427,3522.75,43.52
+35,"Product 0035","Sports & Outdoors",434,243178.88,46.03
+6,"Product 0006","Electronics",395,271309.70,31.33
+107,"Product 0107","Electronics",402,106855.62,29.16
+446,"Product 0446","Electronics",382,87890.56,53.77
+86,"Product 0086","Sports & Outdoors",492,70769.28,34.41
+220,"Product 0220","Apparel",424,102654.64,44.78
+400,"Product 0400","Office Supplies",457,5086.41,51.30
+219,"Product 0219","Electronics",372,324770.88,38.36
+175,"Product 0175","Electronics",444,222546.12,51.03
+241,"Product 0241","Sports & Outdoors",378,182490.84,42.55
+363,"Product 0363","Sports & Outdoors",390,123033.30,46.39
+285,"Product 0285","Home & Kitchen",492,131157.36,36.32
+50,"Product 0050","Apparel",432,82088.64,31.89
+66,"Product 0066","Office Supplies",443,51011.45,44.89
+231,"Product 0231","Apparel",456,12476.16,31.10
+340,"Product 0340","Home & Kitchen",410,43304.20,36.04
+356,"Product 0356","Apparel",425,7722.25,31.32
+13,"Product 0013","Home & Kitchen",486,147369.78,33.96
+391,"Product 0391","Home & Kitchen",408,97193.76,45.79
+487,"Product 0487","Electronics",449,78354.99,35.24
+458,"Product 0458","Electronics",532,194227.88,37.20
+414,"Product 0414","Apparel",427,87748.50,33.06
+2,"Product 0002","Sports & Outdoors",482,244104.08,42.69
+368,"Product 0368","Home & Kitchen",402,169635.96,50.80
+75,"Product 0075","Apparel",391,54986.33,43.40
+246,"Product 0246","Apparel",408,6972.72,35.40
+128,"Product 0128","Office Supplies",515,74422.65,53.84
+166,"Product 0166","Sports & Outdoors",401,72881.75,43.78
+344,"Product 0344","Office Supplies",376,11441.68,35.98
+142,"Product 0142","Office Supplies",457,71653.03,43.54
+152,"Product 0152","Home & Kitchen",368,70943.04,40.75
+410,"Product 0410","Electronics",432,327879.36,39.47
+428,"Product 0428","Apparel",419,10986.18,35.47
+355,"Product 0355","Home & Kitchen",448,112591.36,50.32
+222,"Product 0222","Electronics",459,169329.69,49.47
+381,"Product 0381","Home & Kitchen",418,201045.46,54.51
+38,"Product 0038","Home & Kitchen",458,39626.16,48.89
+359,"Product 0359","Office Supplies",385,58585.45,28.64
+193,"Product 0193","Electronics",412,40771.52,39.74
+164,"Product 0164","Apparel",403,86669.18,41.88
+217,"Product 0217","Office Supplies",439,15549.38,29.70
+453,"Product 0453","Home & Kitchen",472,196078.24,31.55
+186,"Product 0186","Office Supplies",486,18516.60,50.81
+47,"Product 0047","Office Supplies",416,73569.60,38.10
+177,"Product 0177","Electronics",394,322024.08,44.31
+182,"Product 0182","Home & Kitchen",391,109378.34,34.75
+18,"Product 0018","Apparel",374,59256.56,52.40
+110,"Product 0110","Sports & Outdoors",425,145345.75,42.98
+145,"Product 0145","Electronics",426,206043.42,43.51
+27,"Product 0027","Office Supplies",414,23428.26,51.39
+143,"Product 0143","Apparel",454,43370.62,44.42
+496,"Product 0496","Sports & Outdoors",459,240488.46,28.01
+58,"Product 0058","Home & Kitchen",386,59582.96,48.48
+228,"Product 0228","Home & Kitchen",450,113251.50,52.01
+485,"Product 0485","Electronics",448,64337.28,50.96
+294,"Product 0294","Electronics",379,71869.77,52.03
+229,"Product 0229","Home & Kitchen",379,48303.55,41.99
+481,"Product 0481","Electronics",442,306597.72,33.77
+304,"Product 0304","Electronics",379,228116.31,42.32
+52,"Product 0052","Office Supplies",350,24874.50,54.12
+438,"Product 0438","Electronics",396,113402.52,35.13
+382,"Product 0382","Apparel",391,13043.76,34.50
+258,"Product 0258","Office Supplies",428,63001.60,28.85
+341,"Product 0341","Electronics",439,258092.49,31.21
+378,"Product 0378","Electronics",453,261032.19,49.36
+483,"Product 0483","Office Supplies",467,2236.93,50.10
+450,"Product 0450","Sports & Outdoors",499,201042.11,45.61
+405,"Product 0405","Apparel",433,31496.42,38.82
+84,"Product 0084","Sports & Outdoors",438,172795.38,29.29
+170,"Product 0170","Office Supplies",420,5254.20,28.30
+192,"Product 0192","Office Supplies",413,5943.07,49.13
+276,"Product 0276","Office Supplies",428,56350.48,52.60
+101,"Product 0101","Home & Kitchen",419,90679.98,47.24
+473,"Product 0473","Electronics",447,236682.03,39.36
+69,"Product 0069","Apparel",396,58219.92,37.76
+379,"Product 0379","Home & Kitchen",415,63578.00,37.47
+320,"Product 0320","Electronics",438,313340.82,36.40
+115,"Product 0115","Home & Kitchen",442,139287.46,38.47
+375,"Product 0375","Office Supplies",487,41531.36,49.74
+97,"Product 0097","Home & Kitchen",403,149142.24,48.39
+415,"Product 0415","Sports & Outdoors",433,13851.67,48.89
+108,"Product 0108","Electronics",465,303091.65,49.86
+408,"Product 0408","Electronics",398,150698.72,46.52
+59,"Product 0059","Sports & Outdoors",475,141939.50,45.59
+127,"Product 0127","Home & Kitchen",407,185925.74,42.82
+329,"Product 0329","Home & Kitchen",386,108728.48,41.28
+11,"Product 0011","Home & Kitchen",425,204548.25,42.76
+44,"Product 0044","Office Supplies",437,68040.90,50.06
+401,"Product 0401","Home & Kitchen",434,215394.20,43.90
+153,"Product 0153","Electronics",411,77699.55,33.09
+279,"Product 0279","Electronics",382,35827.78,45.56
+214,"Product 0214","Home & Kitchen",374,168113.00,33.62
+9,"Product 0009","Sports & Outdoors",433,98698.02,49.06
+419,"Product 0419","Office Supplies",456,31099.20,36.54
+457,"Product 0457","Sports & Outdoors",466,16407.86,48.14
+85,"Product 0085","Electronics",390,225938.70,43.89
+95,"Product 0095","Office Supplies",484,2342.56,53.31
+281,"Product 0281","Home & Kitchen",452,118306.48,50.77
+259,"Product 0259","Home & Kitchen",407,165962.39,45.97
+302,"Product 0302","Apparel",399,32003.79,29.15
+172,"Product 0172","Electronics",369,45608.40,41.55
+409,"Product 0409","Sports & Outdoors",416,165072.96,31.93
+30,"Product 0030","Electronics",405,68189.85,31.06
+288,"Product 0288","Sports & Outdoors",476,61465.88,35.93
+21,"Product 0021","Home & Kitchen",407,61477.35,43.34
+3,"Product 0003","Electronics",470,228504.60,51.64
+324,"Product 0324","Apparel",418,28762.58,43.31
+398,"Product 0398","Apparel",412,84781.36,44.33
+249,"Product 0249","Electronics",441,292197.78,34.75
+255,"Product 0255","Electronics",403,100536.41,32.36
+388,"Product 0388","Sports & Outdoors",375,175702.50,49.52
+165,"Product 0165","Sports & Outdoors",422,190824.18,53.81
+56,"Product 0056","Home & Kitchen",421,200307.59,33.39
+151,"Product 0151","Apparel",384,83692.80,54.01
+209,"Product 0209","Home & Kitchen",431,197350.59,32.37
+296,"Product 0296","Electronics",448,78955.52,50.02
+74,"Product 0074","Office Supplies",448,73534.72,32.45
+34,"Product 0034","Electronics",426,81037.98,44.16
+138,"Product 0138","Apparel",400,89536.00,42.58
+418,"Product 0418","Home & Kitchen",461,155375.44,42.35
+205,"Product 0205","Apparel",367,16782.91,45.51
+245,"Product 0245","Home & Kitchen",431,51500.19,54.05
+67,"Product 0067","Apparel",431,98910.19,53.24
+407,"Product 0407","Apparel",443,29251.29,41.31
+90,"Product 0090","Office Supplies",406,6159.02,54.98
+325,"Product 0325","Sports & Outdoors",424,15081.68,47.60
+443,"Product 0443","Sports & Outdoors",433,141119.03,28.22
+387,"Product 0387","Electronics",457,331882.54,42.86
+484,"Product 0484","Home & Kitchen",380,120380.20,34.69
+334,"Product 0334","Sports & Outdoors",408,180874.56,51.52
+144,"Product 0144","Electronics",493,252544.18,43.44
+39,"Product 0039","Home & Kitchen",467,49086.37,47.20
+168,"Product 0168","Home & Kitchen",453,204452.49,50.98
+471,"Product 0471","Electronics",439,189520.69,30.30
+393,"Product 0393","Apparel",358,67568.92,36.92
+287,"Product 0287","Electronics",393,117196.53,40.65
+464,"Product 0464","Home & Kitchen",442,201061.38,50.67
+167,"Product 0167","Office Supplies",461,11492.73,33.73
+312,"Product 0312","Electronics",447,145824.81,30.55
+498,"Product 0498","Electronics",425,59687.00,54.29
+277,"Product 0277","Sports & Outdoors",458,195158.38,36.29
+290,"Product 0290","Home & Kitchen",389,82047.88,38.79
+469,"Product 0469","Electronics",388,302896.08,44.90
+494,"Product 0494","Apparel",405,89330.85,49.07
+300,"Product 0300","Home & Kitchen",426,169548.00,48.26
+118,"Product 0118","Office Supplies",364,6326.32,46.20
+317,"Product 0317","Apparel",469,110594.89,29.22
+284,"Product 0284","Office Supplies",391,50763.53,50.88
+342,"Product 0342","Sports & Outdoors",490,88572.40,53.61
+488,"Product 0488","Electronics",399,298463.97,37.42
+126,"Product 0126","Electronics",406,87091.06,52.38
+194,"Product 0194","Electronics",466,374841.08,51.06
+360,"Product 0360","Sports & Outdoors",469,28168.14,49.55
+463,"Product 0463","Home & Kitchen",476,229460.56,32.07
+476,"Product 0476","Home & Kitchen",440,111914.00,53.90
+99,"Product 0099","Sports & Outdoors",457,20473.60,40.56
+367,"Product 0367","Home & Kitchen",435,29205.90,33.59
+374,"Product 0374","Electronics",485,352173.05,40.83
+41,"Product 0041","Home & Kitchen",480,39619.20,30.20
+439,"Product 0439","Office Supplies",466,52606.74,29.24
+46,"Product 0046","Home & Kitchen",393,28610.40,40.87
+206,"Product 0206","Office Supplies",502,86123.12,52.97
+224,"Product 0224","Apparel",462,87872.40,45.36
+32,"Product 0032","Electronics",430,151751.30,44.12
+53,"Product 0053","Home & Kitchen",407,68754.51,39.54
+318,"Product 0318","Apparel",418,25543.98,35.36
+336,"Product 0336","Sports & Outdoors",475,97826.25,45.31
+275,"Product 0275","Electronics",445,212500.85,35.49
+247,"Product 0247","Office Supplies",465,59654.85,49.33
+260,"Product 0260","Office Supplies",426,36192.96,30.96
+423,"Product 0423","Apparel",397,47175.51,41.75
+136,"Product 0136","Apparel",482,85044.08,37.38
+442,"Product 0442","Electronics",375,30093.75,38.60
+139,"Product 0139","Electronics",487,294717.79,45.67
+354,"Product 0354","Electronics",508,439643.52,34.67
+12,"Product 0012","Electronics",414,212249.52,54.85
+479,"Product 0479","Apparel",411,81151.95,39.10
+293,"Product 0293","Sports & Outdoors",395,171959.30,31.64
+411,"Product 0411","Electronics",447,284184.72,41.64
+425,"Product 0425","Sports & Outdoors",408,107642.64,36.98
+495,"Product 0495","Home & Kitchen",426,179316.18,45.75
+154,"Product 0154","Apparel",467,69741.78,37.16
+234,"Product 0234","Sports & Outdoors",439,245743.42,35.98
+316,"Product 0316","Electronics",408,328321.68,37.78
+403,"Product 0403","Apparel",451,37378.88,52.05
+474,"Product 0474","Office Supplies",431,13227.39,31.31
+256,"Product 0256","Electronics",407,274444.17,39.86
+332,"Product 0332","Electronics",453,30065.61,37.73
+33,"Product 0033","Home & Kitchen",477,28424.43,50.83
+422,"Product 0422","Office Supplies",460,38488.20,47.32
+185,"Product 0185","Home & Kitchen",436,26609.08,48.32
+264,"Product 0264","Apparel",397,14145.11,28.23
+215,"Product 0215","Office Supplies",367,45276.79,50.49
+380,"Product 0380","Apparel",402,16220.70,49.27
+130,"Product 0130","Home & Kitchen",463,174041.70,29.85
+270,"Product 0270","Electronics",473,180066.37,28.94
+23,"Product 0023","Office Supplies",397,25801.03,32.08
+435,"Product 0435","Electronics",439,279717.63,39.99
+486,"Product 0486","Sports & Outdoors",487,21725.07,42.32
+384,"Product 0384","Electronics",472,129521.52,29.44
+351,"Product 0351","Electronics",409,125947.46,35.95
+116,"Product 0116","Apparel",370,23335.90,37.45
+314,"Product 0314","Office Supplies",445,46026.35,42.80
+386,"Product 0386","Office Supplies",396,42863.04,50.75
+426,"Product 0426","Office Supplies",466,54275.02,34.84
+431,"Product 0431","Apparel",374,4297.26,48.91
+433,"Product 0433","Electronics",374,174994.60,35.69
+364,"Product 0364","Office Supplies",471,72053.58,51.40
+491,"Product 0491","Office Supplies",408,71922.24,28.84
+462,"Product 0462","Apparel",452,78851.40,37.05
+169,"Product 0169","Apparel",444,95322.36,42.58
+299,"Product 0299","Home & Kitchen",470,125696.80,44.12
+92,"Product 0092","Home & Kitchen",427,69502.79,45.16
+345,"Product 0345","Apparel",425,20434.00,47.32
+436,"Product 0436","Apparel",369,24442.56,31.91
+180,"Product 0180","Electronics",433,246740.72,32.16
+437,"Product 0437","Apparel",407,79373.14,48.26
+236,"Product 0236","Electronics",352,139191.36,32.36
+263,"Product 0263","Sports & Outdoors",490,43193.50,30.49
+197,"Product 0197","Electronics",460,275742.40,41.89
+135,"Product 0135","Apparel",394,23167.20,30.92
+493,"Product 0493","Home & Kitchen",419,31479.47,53.80
+454,"Product 0454","Home & Kitchen",435,76085.85,35.16
+470,"Product 0470","Home & Kitchen",504,207259.92,39.17
+482,"Product 0482","Office Supplies",424,54047.28,50.99
+227,"Product 0227","Office Supplies",418,11825.22,37.43
+500,"Product 0500","Apparel",464,23232.48,52.75
+149,"Product 0149","Office Supplies",486,66353.58,44.96
+478,"Product 0478","Home & Kitchen",470,201409.10,53.74
+311,"Product 0311","Home & Kitchen",408,79449.84,31.43
+73,"Product 0073","Electronics",487,395278.42,32.19
+103,"Product 0103","Electronics",350,140640.50,35.42
+280,"Product 0280","Home & Kitchen",489,185785.77,35.85
+239,"Product 0239","Sports & Outdoors",444,96534.48,53.99
+121,"Product 0121","Apparel",505,111998.90,33.27
+88,"Product 0088","Apparel",401,84298.22,51.44
+420,"Product 0420","Office Supplies",488,57784.08,34.46
+188,"Product 0188","Electronics",379,340042.59,36.22
+461,"Product 0461","Home & Kitchen",407,25653.21,47.95
+240,"Product 0240","Office Supplies",444,59979.96,54.25
+328,"Product 0328","Home & Kitchen",376,98406.72,29.54
+196,"Product 0196","Office Supplies",380,60435.20,51.94
+291,"Product 0291","Electronics",486,310311.00,48.77
+15,"Product 0015","Home & Kitchen",416,116400.96,40.72
+226,"Product 0226","Sports & Outdoors",437,161515.20,30.17
+210,"Product 0210","Office Supplies",445,31323.55,39.72
+48,"Product 0048","Electronics",420,261240.00,45.34
+447,"Product 0447","Electronics",436,300796.40,33.66
+298,"Product 0298","Sports & Outdoors",443,69294.06,39.37
+81,"Product 0081","Electronics",403,32453.59,52.71
+61,"Product 0061","Home & Kitchen",418,91583.80,53.21
+244,"Product 0244","Sports & Outdoors",420,134794.80,54.30
+468,"Product 0468","Home & Kitchen",434,177857.54,42.26
+251,"Product 0251","Sports & Outdoors",475,283746.00,34.22
+204,"Product 0204","Home & Kitchen",361,162045.68,48.91
+104,"Product 0104","Office Supplies",499,7779.41,47.92
+5,"Product 0005","Office Supplies",395,59885.95,28.16
+171,"Product 0171","Home & Kitchen",417,172471.20,41.34
+456,"Product 0456","Sports & Outdoors",456,103078.80,31.01
+397,"Product 0397","Sports & Outdoors",444,219091.80,51.91
+427,"Product 0427","Electronics",504,256838.40,42.25
+283,"Product 0283","Home & Kitchen",441,151135.11,29.29
+347,"Product 0347","Home & Kitchen",420,129200.40,47.01
+179,"Product 0179","Electronics",440,39406.40,54.15
+297,"Product 0297","Office Supplies",420,52311.00,32.14
+321,"Product 0321","Sports & Outdoors",407,242966.79,34.14
+361,"Product 0361","Office Supplies",443,77113.01,51.31
+303,"Product 0303","Home & Kitchen",432,74779.20,41.25
+105,"Product 0105","Sports & Outdoors",484,37171.20,46.11
+402,"Product 0402","Office Supplies",446,20899.56,43.09
+472,"Product 0472","Office Supplies",394,9471.76,46.17
+444,"Product 0444","Electronics",474,424727.70,39.65
+445,"Product 0445","Apparel",430,104275.00,51.90
+233,"Product 0233","Electronics",424,288489.60,53.53
+93,"Product 0093","Home & Kitchen",499,161880.59,36.45
+89,"Product 0089","Electronics",495,277600.95,31.70
+373,"Product 0373","Home & Kitchen",495,38511.00,54.94
+252,"Product 0252","Home & Kitchen",417,207344.91,47.75
+31,"Product 0031","Electronics",516,433089.12,37.85
+343,"Product 0343","Electronics",438,62506.98,28.72
+467,"Product 0467","Sports & Outdoors",422,148797.20,43.07
+327,"Product 0327","Office Supplies",457,48400.87,46.14
+253,"Product 0253","Sports & Outdoors",379,107768.65,44.48
+14,"Product 0014","Home & Kitchen",394,119756.30,28.09
+497,"Product 0497","Home & Kitchen",448,37779.84,46.83
+109,"Product 0109","Home & Kitchen",429,14401.53,50.04
+155,"Product 0155","Electronics",460,184777.40,49.64
+133,"Product 0133","Electronics",445,220008.00,45.79
+416,"Product 0416","Home & Kitchen",406,56616.70,50.86
+195,"Product 0195","Office Supplies",457,66118.76,41.24
+199,"Product 0199","Electronics",420,344160.60,42.79
+372,"Product 0372","Electronics",413,26221.37,49.39
+369,"Product 0369","Apparel",459,62451.54,39.97
+441,"Product 0441","Office Supplies",429,30561.96,44.16
+339,"Product 0339","Apparel",375,14643.75,40.05
+243,"Product 0243","Apparel",426,28439.76,38.98
+335,"Product 0335","Sports & Outdoors",395,160800.55,31.53
+383,"Product 0383","Home & Kitchen",389,104726.58,43.28
+230,"Product 0230","Electronics",422,36173.84,48.38
+7,"Product 0007","Sports & Outdoors",437,81172.75,30.37
+301,"Product 0301","Apparel",451,76836.87,43.21
+254,"Product 0254","Home & Kitchen",424,184172.88,52.66
+377,"Product 0377","Home & Kitchen",443,142362.48,29.02
+78,"Product 0078","Home & Kitchen",433,131199.00,51.51
+159,"Product 0159","Sports & Outdoors",439,203652.10,38.18
+432,"Product 0432","Electronics",447,77693.07,35.05
+250,"Product 0250","Apparel",460,13432.00,53.39
+20,"Product 0020","Sports & Outdoors",416,115785.28,41.44
+319,"Product 0319","Apparel",455,14664.65,41.64
+1,"Product 0001","Electronics",491,164534.10,45.05
+76,"Product 0076","Office Supplies",461,46796.11,28.89
+106,"Product 0106","Office Supplies",377,45752.72,48.34
+178,"Product 0178","Sports & Outdoors",376,189951.44,47.17
+129,"Product 0129","Office Supplies",485,12896.15,54.91
+203,"Product 0203","Home & Kitchen",466,160117.60,32.90
+8,"Product 0008","Electronics",469,263456.06,47.32
+455,"Product 0455","Sports & Outdoors",473,190898.07,28.70
+346,"Product 0346","Apparel",462,57117.06,49.48
+370,"Product 0370","Electronics",411,38046.27,33.03
+71,"Product 0071","Office Supplies",490,47579.00,40.07
+267,"Product 0267","Sports & Outdoors",447,141444.21,33.28
+68,"Product 0068","Apparel",409,44221.08,40.48
+448,"Product 0448","Office Supplies",408,26136.48,43.57
+146,"Product 0146","Electronics",400,326904.00,28.25
+80,"Product 0080","Apparel",438,78660.42,38.79
+396,"Product 0396","Apparel",466,22820.02,54.40
+162,"Product 0162","Apparel",451,15131.05,51.33
+132,"Product 0132","Sports & Outdoors",329,6277.32,39.83
+322,"Product 0322","Apparel",488,105891.12,30.18
+389,"Product 0389","Electronics",404,318016.68,31.29
+330,"Product 0330","Apparel",402,27774.18,42.25
+237,"Product 0237","Home & Kitchen",439,81487.18,52.98
+262,"Product 0262","Office Supplies",459,57489.75,29.92
+451,"Product 0451","Electronics",468,220311.00,34.55
+323,"Product 0323","Apparel",428,5876.44,34.38
+337,"Product 0337","Home & Kitchen",339,140640.93,43.32
+348,"Product 0348","Apparel",399,20225.31,31.35
+114,"Product 0114","Sports & Outdoors",513,118800.54,37.71
+60,"Product 0060","Home & Kitchen",438,136095.36,35.31
+399,"Product 0399","Sports & Outdoors",396,208969.20,42.40
+238,"Product 0238","Sports & Outdoors",420,156920.40,33.37
+112,"Product 0112","Office Supplies",458,65979.48,50.77
+268,"Product 0268","Home & Kitchen",480,218188.80,37.60
+289,"Product 0289","Home & Kitchen",444,80745.84,41.80
+65,"Product 0065","Sports & Outdoors",376,130174.96,28.75
+124,"Product 0124","Electronics",397,138922.21,47.36
+452,"Product 0452","Electronics",420,211570.80,42.44
+98,"Product 0098","Electronics",424,297270.64,54.85
+200,"Product 0200","Home & Kitchen",382,59733.34,43.29
+490,"Product 0490","Office Supplies",406,69397.58,46.79
+235,"Product 0235","Home & Kitchen",418,100445.40,42.76
+82,"Product 0082","Office Supplies",513,66089.79,44.67
+119,"Product 0119","Sports & Outdoors",414,110297.88,30.20
+286,"Product 0286","Home & Kitchen",343,136843.28,41.34
+306,"Product 0306","Apparel",400,12532.00,44.78
+376,"Product 0376","Apparel",473,104674.90,35.45
+147,"Product 0147","Electronics",388,70550.04,35.92
+480,"Product 0480","Office Supplies",416,64367.68,39.46
+338,"Product 0338","Apparel",482,87319.12,49.45
+202,"Product 0202","Sports & Outdoors",441,235044.18,41.77
+358,"Product 0358","Electronics",471,82858.32,51.53
+412,"Product 0412","Apparel",429,65135.07,30.41
+79,"Product 0079","Office Supplies",442,34900.32,45.07
+26,"Product 0026","Home & Kitchen",378,166588.38,53.97
+72,"Product 0072","Home & Kitchen",386,16590.28,49.65
+77,"Product 0077","Electronics",368,32936.00,28.55
+232,"Product 0232","Office Supplies",407,66841.61,51.26
+131,"Product 0131","Sports & Outdoors",485,124611.05,36.39
+17,"Product 0017","Home & Kitchen",493,239632.51,44.39
+198,"Product 0198","Electronics",366,116161.08,46.59
+310,"Product 0310","Home & Kitchen",407,43646.68,35.73
+212,"Product 0212","Home & Kitchen",499,161561.23,50.21
+37,"Product 0037","Office Supplies",424,50973.28,41.86
+28,"Product 0028","Office Supplies",377,23343.84,39.60
+404,"Product 0404","Home & Kitchen",542,71636.14,30.25
+353,"Product 0353","Apparel",405,80198.10,37.22
+489,"Product 0489","Electronics",418,284118.78,49.31
+225,"Product 0225","Apparel",411,11832.69,30.36
+83,"Product 0083","Apparel",427,33062.61,47.95
+333,"Product 0333","Electronics",441,262646.37,40.96
+63,"Product 0063","Home & Kitchen",447,132517.62,38.36
+395,"Product 0395","Sports & Outdoors",421,143678.88,52.84
+45,"Product 0045","Sports & Outdoors",414,83764.62,33.10
+174,"Product 0174","Office Supplies",396,54358.92,49.97
+216,"Product 0216","Apparel",406,9894.22,52.52
+295,"Product 0295","Electronics",389,138075.55,38.87
+213,"Product 0213","Home & Kitchen",463,183348.00,53.99
+134,"Product 0134","Home & Kitchen",365,26907.80,39.60
+274,"Product 0274","Home & Kitchen",401,114898.53,50.63
+163,"Product 0163","Electronics",471,235311.60,49.74
+223,"Product 0223","Home & Kitchen",380,145251.20,43.41
+352,"Product 0352","Apparel",547,33963.23,31.45
+36,"Product 0036","Office Supplies",497,23229.78,31.51
+221,"Product 0221","Office Supplies",421,4003.71,32.49
+362,"Product 0362","Home & Kitchen",466,139040.42,38.10
+102,"Product 0102","Electronics",510,99246.00,37.69
+430,"Product 0430","Electronics",410,125304.20,35.75
+158,"Product 0158","Office Supplies",458,17202.48,47.90
+460,"Product 0460","Apparel",443,55352.85,28.24
+499,"Product 0499","Sports & Outdoors",418,232010.90,41.15
+265,"Product 0265","Apparel",414,80651.34,51.44
+111,"Product 0111","Office Supplies",448,32385.92,49.90
+459,"Product 0459","Home & Kitchen",461,219214.72,54.45
+16,"Product 0016","Sports & Outdoors",449,81327.37,44.51
+207,"Product 0207","Electronics",405,229618.80,43.64
+62,"Product 0062","Apparel",427,85165.15,51.85
+123,"Product 0123","Office Supplies",406,43673.42,45.32
+326,"Product 0326","Sports & Outdoors",470,232302.20,41.50
+385,"Product 0385","Apparel",458,32939.36,40.57
+371,"Product 0371","Apparel",391,81973.15,50.65
+492,"Product 0492","Home & Kitchen",413,184904.23,42.88
+365,"Product 0365","Home & Kitchen",379,8906.50,38.77
+157,"Product 0157","Electronics",442,44226.52,35.58
+413,"Product 0413","Apparel",451,19731.25,32.37
+308,"Product 0308","Apparel",445,58762.25,45.90
+183,"Product 0183","Sports & Outdoors",469,276695.93,44.69
+100,"Product 0100","Sports & Outdoors",487,92120.92,51.85
+313,"Product 0313","Sports & Outdoors",389,66024.97,31.21
+150,"Product 0150","Office Supplies",396,27126.00,43.37
+140,"Product 0140","Home & Kitchen",406,169634.92,36.14
+137,"Product 0137","Home & Kitchen",355,48280.00,38.74
+248,"Product 0248","Apparel",455,64086.75,37.27
+421,"Product 0421","Electronics",469,158733.05,47.03
+208,"Product 0208","Electronics",473,290663.23,36.94
+24,"Product 0024","Electronics",487,93231.28,48.92
+392,"Product 0392","Office Supplies",462,2148.30,40.65
+191,"Product 0191","Electronics",395,275121.45,42.99
+429,"Product 0429","Electronics",449,275923.97,41.22
+25,"Product 0025","Apparel",432,72675.36,54.25
+141,"Product 0141","Apparel",442,69340.96,28.51
+94,"Product 0094","Office Supplies",375,41917.50,45.78
+122,"Product 0122","Electronics",458,193555.38,35.53
+218,"Product 0218","Electronics",464,399234.88,28.98
+434,"Product 0434","Apparel",489,40645.68,47.80
+49,"Product 0049","Home & Kitchen",342,145979.28,53.15
+211,"Product 0211","Electronics",406,267484.98,37.72
+465,"Product 0465","Sports & Outdoors",407,141416.22,32.11
+449,"Product 0449","Office Supplies",424,13300.88,48.33
+64,"Product 0064","Home & Kitchen",435,6359.70,38.58
+55,"Product 0055","Sports & Outdoors",370,160158.20,52.41
+148,"Product 0148","Electronics",453,243319.89,45.30

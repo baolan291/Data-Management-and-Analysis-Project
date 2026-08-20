@@ -1,0 +1,31 @@
+"supplier_id","supplier_name","supplier_region","lead_time_days","total_inventory_records","reorder_records","reorder_rate"
+22,"Supplier 22","North America",20,1800,266,14.78
+11,"Supplier 11","Asia",19,2400,365,15.21
+9,"Supplier 09","Latin America",29,2520,403,15.99
+15,"Supplier 15","Asia",17,1800,261,14.50
+26,"Supplier 26","North America",12,2040,302,14.80
+19,"Supplier 19","Latin America",12,2520,367,14.56
+30,"Supplier 30","North America",3,1680,280,16.67
+21,"Supplier 21","North America",12,1440,191,13.26
+3,"Supplier 03","Asia",26,2280,336,14.74
+17,"Supplier 17","Latin America",16,1320,195,14.77
+28,"Supplier 28","Asia",19,1560,250,16.03
+5,"Supplier 05","Europe",24,1800,251,13.94
+29,"Supplier 29","Latin America",17,1800,276,15.33
+4,"Supplier 04","Asia",17,2040,321,15.74
+10,"Supplier 10","North America",15,2040,311,15.25
+6,"Supplier 06","Latin America",16,1320,205,15.53
+14,"Supplier 14","Latin America",26,2760,388,14.06
+13,"Supplier 13","Asia",13,1920,310,16.15
+2,"Supplier 02","North America",11,2280,330,14.47
+16,"Supplier 16","Asia",27,2400,374,15.58
+7,"Supplier 07","Asia",16,1320,206,15.61
+12,"Supplier 12","Europe",28,2280,325,14.25
+24,"Supplier 24","Asia",15,1680,240,14.29
+25,"Supplier 25","North America",15,1920,319,16.61
+20,"Supplier 20","Europe",20,1680,248,14.76
+1,"Supplier 01","Europe",4,2760,407,14.75
+18,"Supplier 18","Asia",20,2640,377,14.28
+27,"Supplier 27","Latin America",23,2160,313,14.49
+23,"Supplier 23","Asia",25,1680,252,15.00
+8,"Supplier 08","North America",19,2160,327,15.14
