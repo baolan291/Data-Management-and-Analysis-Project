@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,region
+1,Warehouse A,Northeast
+2,Warehouse B,Southeast
+3,Warehouse C,Midwest
+4,Warehouse D,Southwest
+5,Warehouse E,West

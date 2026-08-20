@@ -1,0 +1,31 @@
+supplier_id,supplier_name,supplier_region,lead_time_days
+1,Supplier 01,Europe,4
+2,Supplier 02,North America,11
+3,Supplier 03,Asia,26
+4,Supplier 04,Asia,17
+5,Supplier 05,Europe,24
+6,Supplier 06,Latin America,16
+7,Supplier 07,Asia,16
+8,Supplier 08,North America,19
+9,Supplier 09,Latin America,29
+10,Supplier 10,North America,15
+11,Supplier 11,Asia,19
+12,Supplier 12,Europe,28
+13,Supplier 13,Asia,13
+14,Supplier 14,Latin America,26
+15,Supplier 15,Asia,17
+16,Supplier 16,Asia,27
+17,Supplier 17,Latin America,16
+18,Supplier 18,Asia,20
+19,Supplier 19,Latin America,12
+20,Supplier 20,Europe,20
+21,Supplier 21,North America,12
+22,Supplier 22,North America,20
+23,Supplier 23,Asia,25
+24,Supplier 24,Asia,15
+25,Supplier 25,North America,15
+26,Supplier 26,North America,12
+27,Supplier 27,Latin America,23
+28,Supplier 28,Asia,19
+29,Supplier 29,Latin America,17
+30,Supplier 30,North America,3
